@@ -103,8 +103,6 @@ This assignment consists of **three main tasks**, which were successfully comple
 ---
 
 
----
-
 ##  Conclusion
 
 The tasks demonstrate:
