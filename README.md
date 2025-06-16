@@ -1,4 +1,4 @@
-#  AxionRay Data Engineering & EDA Assessment - Senior-Analyst (BLR)
+#  AxionRay Senior-Analyst Assessment - BLR
 
 **Company:** [AxionRay](https://axionray.com)  
 **Role Context:** Evaluating proficiency in data validation, cleaning, integration, and exploratory data analysis using Python.  
