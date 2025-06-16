@@ -44,7 +44,7 @@ This assignment consists of **three main tasks**, which were successfully comple
 -  Tag generation for free-text diagnostics
 -  Missing data insights (plant, dealer-level trends)
 
-### 🔗 Files & Deliverables
+###  Files & Deliverables
 -  [Original Dataset](https://github.com/priyanshubiswas-tech/Senior-Analyst-Assessment-for-Axion-BLR/blob/main/Data%20for%20Task%201.xlsx)
 -  [Cleaned Dataset with Tags](https://github.com/priyanshubiswas-tech/Senior-Analyst-Assessment-for-Axion-BLR/blob/main/Task%201/cleaned_task1_with_tags.xlsx)
 -  [Jupyter Notebook](https://github.com/priyanshubiswas-tech/Senior-Analyst-Assessment-for-Axion-BLR/blob/main/Task%201/task1_analysis.ipynb)
